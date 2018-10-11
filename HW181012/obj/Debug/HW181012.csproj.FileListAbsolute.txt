@@ -1,0 +1,7 @@
+D:\Users\Azk\Documents\GitHub\HW181012\HW181012\bin\Debug\HW181012.exe.config
+D:\Users\Azk\Documents\GitHub\HW181012\HW181012\bin\Debug\HW181012.exe
+D:\Users\Azk\Documents\GitHub\HW181012\HW181012\bin\Debug\HW181012.pdb
+D:\Users\Azk\Documents\GitHub\HW181012\HW181012\obj\Debug\HW181012.csprojAssemblyReference.cache
+D:\Users\Azk\Documents\GitHub\HW181012\HW181012\obj\Debug\HW181012.csproj.CoreCompileInputs.cache
+D:\Users\Azk\Documents\GitHub\HW181012\HW181012\obj\Debug\HW181012.exe
+D:\Users\Azk\Documents\GitHub\HW181012\HW181012\obj\Debug\HW181012.pdb
